@@ -1,0 +1,11 @@
+[package]
+name = "ysml"
+version = "0.0.1"
+edition = "2021"
+description = "YSML Rust library"
+readme = "README.md"
+homepage = "https://github.com/yupdates/ysml-rs/"
+repository = "https://github.com/yupdates/ysml-rs/"
+license = "MIT"
+
+[dependencies]
